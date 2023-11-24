@@ -9,13 +9,13 @@ To get started with launching the server, follow these steps:
     git clone https://github.com/vetal-hovenko/wordle-back.git
     ```
 
-2. **Install Dependencies:**
-    ```bash
-    npm install
-    ```
-3. **Go to wordle-back:**
+2. **Go to wordle-back:**
     ```bash
     cd ./wordle-back
+    ```
+3. **Install Dependencies:**
+    ```bash
+    npm install
     ```
     
 4. **Run the Server:**
