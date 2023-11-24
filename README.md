@@ -6,7 +6,7 @@ To get started with launching the server, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone <https://github.com/vetal-hovenko/worlde-back.git>
+    git clone https://github.com/vetal-hovenko/worlde-back.git
     ```
 
 2. **Install Dependencies:**
